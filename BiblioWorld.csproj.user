@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormGestionLivres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAcceuil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLivreDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormConnexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
